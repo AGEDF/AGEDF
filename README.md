@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-I'm Thomas, a Fullstack developer originally from Lorient, France, now based in beautiful Stockholm, Sweden.
+I'm Aadam, a Backend developer from India.
 
 ## Things I Code With 💻
 
