@@ -1,6 +1,7 @@
 ### 😊 Hi there! Nice to see you👋
 
-
+Myself Aadam Gandhi,
+I am from Gujarat, India.
 <!--
 **AGEDF/AGEDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
